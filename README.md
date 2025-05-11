@@ -1,2 +1,1 @@
-
-oracle bağlantısı ve sql sorguları dotnet'te yapıldı
+oracle connection and sql queries are did in dotnet
