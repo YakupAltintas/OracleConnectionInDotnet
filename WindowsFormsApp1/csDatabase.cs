@@ -19,7 +19,6 @@ namespace WindowsFormsApp1
             connect = $"User Id={kullaniciAdi};Password={sifre};Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST={hostName})(PORT={port}))(CONNECT_DATA=(SID={dbName})));";
             conn = new OracleConnection(connect);
         }
-        // Doğru bağlantı dizesi
         
 
         public void dbOpen()
